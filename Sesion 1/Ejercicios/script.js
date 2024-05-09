@@ -6,7 +6,7 @@ const rl = readline.createInterface({
 });
 
 //Ejercicio 1
-nrl.question('Ingrese su nombre: ',(nombre) => {
+rl.question('Ingrese su nombre: ',(nombre) => {
     rl.question('Ingrese su apellido: ', (apellido) =>{
         console.log(`Hola mi nombre es ${nombre} ${apellido}`)
     })  
