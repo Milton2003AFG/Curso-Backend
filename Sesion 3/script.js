@@ -69,8 +69,6 @@ function mostrarMenu() {
 // Llamar al menú por primera vez para iniciar el programa
 mostrarMenu();
 
-
-
 // Ejercicio 1
 function ejercicio1() {
     console.clear();
